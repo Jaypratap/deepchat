@@ -15,7 +15,7 @@ const App = () => {
 
     // const [setSocket] = useState(null);
 
-    const socket = new WebSocket('wss://api.deepgram.com/v1/listen', ['token', '8d1afa83d1fe2af1b980de663e9f2583ffdd1314']);
+    const socket = new WebSocket('wss://api.deepgram.com/v1/listen', ['token', '23c53e8ee34fd5f28e659deaf79787aa625d5a37']);
     // setSocket(socket);
     
 
